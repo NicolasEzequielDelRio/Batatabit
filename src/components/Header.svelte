@@ -7,11 +7,7 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background: linear-gradient(
-      208.83deg,
-      var(--black) 16.69%,
-      var(--orange) 100%
-    );
+    background: linear-gradient(208.83deg, var(--black) 16.69%, var(--orange) 100%);
     position: relative;
   }
 
@@ -105,9 +101,7 @@
   <img src="assets/images/logo.svg" alt="Logo de Batatabit" />
   <div>
     <h1>La próxima revolución en el intercambio de criptomodenas.</h1>
-    <p>
-      Batatabit te ayuda a navegar entre los diferentes precios y tendencias.
-    </p>
+    <p>Batatabit te ayuda a navegar entre los diferentes precios y tendencias.</p>
     <a href="#plans">Conoce Nuestros Planes <span /></a>
   </div>
 </header>
