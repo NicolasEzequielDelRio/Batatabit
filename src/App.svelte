@@ -1,6 +1,7 @@
 <script>
   import Header from './components/Header.svelte';
   import Exchange from './components/Exchange.svelte';
+  import Details from './components/Details.svelte';
 </script>
 
 <style>
@@ -12,4 +13,5 @@
 <Header />
 <main>
   <Exchange />
+  <Details />
 </main>
