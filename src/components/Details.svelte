@@ -4,7 +4,7 @@
 </script>
 
 <style>
-  .details {
+  #details {
     min-width: 320px;
     padding: 25px 10px;
     background-color: var(--warm-black);
@@ -45,7 +45,7 @@
   }
 
   @media (min-width: 768px) {
-    .details section {
+    #details section {
       max-width: 1024px;
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -54,7 +54,7 @@
   }
 </style>
 
-<section class="details">
+<section id="details">
   <span />
   <div>
     <h2>Creamos un producto sin comparación.</h2>

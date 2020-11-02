@@ -43,7 +43,7 @@
   }
 
   a {
-    width: 229px;
+    width: 150px;
     height: 48px;
     display: block;
     margin: 0 auto;
@@ -102,6 +102,6 @@
   <div>
     <h1>La próxima revolución en el intercambio de criptomodenas.</h1>
     <p>Batatabit te ayuda a navegar entre los diferentes precios y tendencias.</p>
-    <a href="#plans">Conoce Nuestros Planes <span /></a>
+    <a href="#details">Conoce más <span /></a>
   </div>
 </header>
